@@ -1,0 +1,30 @@
+.ss{
+    padding-left: 50px;
+}
+.ss:hover{
+    color: red;
+}
+.c1:hover{
+    color: yellow;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.377);
+}
+.img1{
+    filter: drop-shadow(20px 7px 5px black);
+}
+.card:hover{
+    /* transition: .2s ease-in-out; */
+    transform: scale(1.01) ;
+    filter: drop-shadow(20px 7px 5px black);
+}
+.i:hover{
+    transform: scale(1.01) ; 
+    background-color: black;
+}
+button:hover{
+    filter: drop-shadow(20px 7px 5px black);
+}
+span:hover{
+    filter: drop-shadow(20px 7px 5px black);
+}
